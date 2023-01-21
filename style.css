@@ -1,0 +1,35 @@
+
+h4
+{
+    background-color: lightgreen;
+    line-height: 2;
+    bottom:0;
+}
+
+.heading
+{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display:inline;
+}
+
+.heading button
+{
+    float:right;
+    border:1px solid white;
+}
+
+#play
+{
+    font-size: 25px;;
+}
+
+canvas
+{
+margin-left:600px;
+margin-top:100px;
+}
